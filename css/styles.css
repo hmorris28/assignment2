@@ -1,19 +1,30 @@
-h1,
-body {
+h1, body {
     color: white;
     font-family: sans-serif
-    
 }
 
-body    {
+body {
     background-color: darkgrey
 }
-/*
+
+
 #somename {
     
     color: white; 
-}*/
+}
 
 .somename {
-    color: skyblue; 
+    color: skyblue;
+}
+
+nav a {
+    color: white;
+}
+
+a:hover {
+    color: skyblue;
+}
+
+body ol li {
+    color: skyblue
 }
