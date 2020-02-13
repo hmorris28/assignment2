@@ -15,7 +15,11 @@ body {
 
 .somename {
     color: skyblue;
+    border: 4px solid skyblue;
+    padding: 15px
 }
+
+
 
 nav a {
     color: white;
@@ -27,4 +31,12 @@ a:hover {
 
 body ol li {
     color: skyblue
+}
+
+#myid {
+    font-size: 1.2em; 
+}
+
+.link {
+    color: skyblue;
 }
