@@ -1,4 +1,10 @@
-h1, body {
+html {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+h1,
+body {
     color: white;
     font-family: sans-serif
 }
@@ -9,8 +15,8 @@ body {
 
 
 #somename {
-    
-    color: white; 
+
+    color: white;
 }
 
 .somename {
@@ -34,7 +40,7 @@ body ol li {
 }
 
 #myid {
-    font-size: 1.2em; 
+    font-size: 1.2em;
 }
 
 .link {
