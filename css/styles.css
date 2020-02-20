@@ -10,7 +10,10 @@ body {
 }
 
 body {
-    background-color: darkgrey
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../images/background.jpg"); 
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
 }
 
 
@@ -20,19 +23,19 @@ body {
 }
 
 .somename {
-    color: skyblue;
-    border: 4px solid skyblue;
+    color: black;
+    border: 4px solid darkorange; 
     padding: 15px
 }
 
 
 
 nav a {
-    color: white;
+    color: black;
 }
 
 a:hover {
-    color: skyblue;
+    color: darkorange;
 }
 
 body ol li {
@@ -44,5 +47,5 @@ body ol li {
 }
 
 .link {
-    color: skyblue;
+    color: darkorange;
 }
