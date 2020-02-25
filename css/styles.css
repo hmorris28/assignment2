@@ -39,13 +39,19 @@ a:hover {
 }
 
 body ol li {
-    color: skyblue
+    color: darkorange; 
 }
 
 #myid {
-    font-size: 1.2em;
+    font-size: 1.5em;
+    color: white;
 }
 
 .link {
     color: darkorange;
+}
+.pics img {
+/*     height: 200px;*/
+    width: 300px
+    
 }
